@@ -13,7 +13,7 @@ Use at your own risk. I am not responsible for anything that could happen to you
 
 ## Summary from the Original Project
 
-This is an installer for [UAD GUI Project](https://github.com/0x192/universal-android-debloater)
+This is a windows installer for [UAD GUI Project](https://github.com/0x192/universal-android-debloater)
 which aims to improve privacy and battery performance by removing unnecessary
 and obscure system apps.
 This can also contribute to improve security by reducing [the attack surface](https://en.wikipedia.org/wiki/Attack_surface).
