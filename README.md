@@ -27,7 +27,7 @@ in recovery mode, and you'll have to perform a FACTORY RESET. Make a backup firs
 In any case, you **CANNOT** brick your device with this software!
 That's the main point, right?
 
-<img src="https://github.com/0x192/universal-android-debloater/raw/main/resources/screenshots/v0.5.0.png" width="850" alt="uad_screenshot">
+<img src="Debloat.png" width="850" alt="uad_screenshot">
 
 **This software is still in an early stage of development. Check out the issues, and feel free to contribute!**
 
