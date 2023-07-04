@@ -79,7 +79,7 @@ NB : System apps cannot truly be uninstalled without root (see the [FAQ](https:/
 - **Read the [FAQ](https://github.com/0x192/universal-android-debloater/wiki/FAQ)!**
 - **Do a proper backup of your data! You can never be too careful!**
 - Enable _Developer Options_ on your smartphone.
-- Turn on _USB Debugging_ from the developer panel.
+- Turn on _USB Debugging_ from the developer panel. (By Tapping the build number in settings for 5-6 times)
 - From the settings, disconnect from any OEM accounts (when you delete an OEM
   account package it could lock you on the lockscreen because the phone can't
   associate your identity anymore)
