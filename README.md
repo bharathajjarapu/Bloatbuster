@@ -95,7 +95,7 @@ NB : System apps cannot truly be uninstalled without root (see the [FAQ](https:/
 - From the settings, disconnect from any OEM accounts (when you delete an OEM
   account package it could lock you on the lockscreen because the phone can't
   associate your identity anymore)
-- - Download the latest release of the installer for your Windows [here](https://github.com/bharathajjarapu/Bloatbuster/releases).
+- Download the latest release of the installer for your Windows [here](https://github.com/bharathajjarapu/Bloatbuster/releases).
 
 **NOTE:** Chinese phones users may need to use the AOSP list for removing some stock
 apps because those Chinese manufacturers (especially Xiaomi and Huawei) have been
