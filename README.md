@@ -11,7 +11,7 @@
 Use at your own risk. I am not responsible for anything that could happen to your phone.
 </p>
 
-## Summary from the Original Project
+## Summary
 
 This is a windows installer for [UAD GUI Project](https://github.com/0x192/universal-android-debloater)
 which aims to improve privacy and battery performance by removing unnecessary
@@ -51,7 +51,6 @@ NB : System apps cannot truly be uninstalled without root (see the [FAQ](https:/
 
 ## Manufacturers debloat lists
 
-- [ ] Archos
 - [x] Asus
 - [ ] Blackberry
 - [ ] Gionee
@@ -61,6 +60,7 @@ NB : System apps cannot truly be uninstalled without root (see the [FAQ](https:/
 - [x] Fairphone
 - [ ] HTC
 - [x] Huawei
+- [ ] Infinix
 - [x] Motorola
 - [x] Nokia
 - [x] OnePlus
@@ -70,20 +70,9 @@ NB : System apps cannot truly be uninstalled without root (see the [FAQ](https:/
 - [x] Sony
 - [x] Tecno
 - [ ] TCL
-- [x] Unihertz
 - [x] Vivo/iQOO
-- [ ] Wiko
 - [x] Xiaomi
 - [x] ZTE
-
-## Mobile carriers debloat lists
-
-| Country | Carriers                        |
-| ------- | ------------------------------- |
-| France  | Orange, SFR, Free, Bouygues     |
-| USA     | T-Mobile, Verizon, Sprint, AT&T |
-| Germany | Telekom                         |
-| UK      | EE                              |
 
 ## How to use it
 
