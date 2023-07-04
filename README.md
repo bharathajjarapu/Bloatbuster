@@ -8,7 +8,7 @@
 <a href="https://github.com/bharathajjarapu/Bloatbuster">
    <h1 align="center">Bloat Buster</h1>
 </a>
-  <h4 align="center"><b>
-    Just a ready and miniaml installer of Universal Android Debloater
-  </b></h4>
+  <h3 align="center"><b>
+    Just a miniaml installer for Universal Android Debloater
+  </b></h3>
 </p>
