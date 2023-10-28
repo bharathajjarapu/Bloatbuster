@@ -15,7 +15,7 @@ Use at your own risk. I am not responsible for anything that could happen to you
 
 This is a windows installer for [UAD GUI Project](https://github.com/0x192/universal-android-debloater)
 which aims to improve privacy and battery performance by removing unnecessary
-and obscure system apps.
+and obscure system apps with added indian bloat configuration.
 This can also contribute to improve security by reducing [the attack surface](https://en.wikipedia.org/wiki/Attack_surface).
 
 Packages are as well documented as possible in order to provide a better
