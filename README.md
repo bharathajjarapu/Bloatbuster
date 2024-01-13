@@ -34,7 +34,5 @@ In any case, you **CANNOT** brick your device with this software! But You can ca
 - **Do a proper backup of your data! You can never be too careful!**
 - Enable _Developer Options_ on your smartphone. (By Tapping the build number in settings for 5-6 times)
 - Turn on _USB Debugging_ from the developer panel. 
-- From the settings, disconnect from any OEM accounts (when you delete an OEM
-  account package it could lock you on the lockscreen because the phone can't
-  associate your identity anymore)
+- From the settings, disconnect from any OEM accounts
 - Download the latest release of the installer for your Windows [here](https://github.com/bharathajjarapu/Bloatbuster/releases).
